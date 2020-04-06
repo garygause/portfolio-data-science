@@ -25,7 +25,7 @@ It is important to understand the domain the business operates in.  Answering th
 
 ## What questions are we trying to answer?
 
-Understanding what questions the business is trying to answer is key to focusing the efforts of the data science project to best meet the needs of the business.  This is also a chance for the business to understand why it is embarking on this journey in the first place, what questions are already answered by existing data anlysis, and what questions they would like answered but don't have answers to now.
+Understanding what questions the business is trying to answer is key to focusing the efforts of the data science project to best meet the needs of the business.  This is also a chance for the business to understand why it is embarking on this journey in the first place, what questions are already answered by existing data analysis, and what questions they would like answered but don't have answers to now.
 
 ## Data Dictionaries
 
