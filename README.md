@@ -8,4 +8,8 @@ This is my portfolio of data science projects that I have done over the last sev
   - [React Portfolio](https://github.com/garygause/portfolio-react): React web apps, react-native mobile apps, and react-electron desktop apps I've done.
 
   - [Software Engineering Portfolio](https://github.com/garygause/portfolio): 20+ years of software engineering projects in web, mobile, data science, architecture, AWS, and database administration.
+
+## Projects
+
+  - [Data Science Project Template](datascience-project-template/): A template of a typical data science project workflow, used as a starting point for new projects.
   
