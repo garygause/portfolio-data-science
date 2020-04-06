@@ -11,5 +11,5 @@ This is my portfolio of data science projects that I have done over the last sev
 
 ## Projects
 
-  - [Data Science Project Template](datascience-project-template/): A template of a typical data science project workflow, used as a starting point for new projects.
+  - [Data Science Project Template](https://github.com/garygause/portfolio-data-science/tree/master/data-science-project-template): A template of a typical data science project workflow, used as a starting point for new projects.
   
