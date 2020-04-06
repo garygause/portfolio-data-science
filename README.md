@@ -12,4 +12,6 @@ This is my portfolio of data science projects that I have done over the last sev
 ## Projects
 
   - [Data Science Project Template](https://github.com/garygause/portfolio-data-science/tree/master/data-science-project-template): A template of a typical data science project workflow, used as a starting point for new projects.
+
+  - [The Powerline Project](https://github.com/garygause/portfolio-projects/tree/master/powerline/README.md): Data Architecture and Pipeline for monitoring remote sensor data on power line segments to detect anomalies and prevent forest fires.  (2020)
   
