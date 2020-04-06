@@ -25,14 +25,14 @@ It is important to understand the domain the business operates in.  Answering th
 
 ## What questions are we trying to answer?
 
-Understanding what questions the business is trying to answer is key to focusing the efforts of the data science project to best needs the needs of the business.  This is also a chance for the business to understand why it is embarking on this journey in the first place, what questions are already answered by existing data anlysis, and what questions they would like answered but don't have answers to now.
+Understanding what questions the business is trying to answer is key to focusing the efforts of the data science project to best meet the needs of the business.  This is also a chance for the business to understand why it is embarking on this journey in the first place, what questions are already answered by existing data anlysis, and what questions they would like answered but don't have answers to now.
 
 ## Data Dictionaries
 
 A tedious, but essential part of the process, is understanding the data.  Creating a data dictionary or set of dictionaries is key to learning about the data.  Here we want to ask several questions:
 
 - What data is available and where?
-- What do the individual fields of the data set(s) represent?
+- What do the individual fields of the dataset(s) represent?
 - What type of data is stored in each field?
 - What is the history of that data and how has it changed over time?
 - What are the raw sources of that data?
@@ -44,7 +44,7 @@ Once we have an understanding of the data and how we can access it, it is time t
 
 ## Exploratory Data Analysis
 
-Now comes the fun part.  Here we get to dig in deep into the data and understand its strengths and shortcomings.  Key parts of this step include:
+Now comes the fun part.  Here we get to dig deep into the data and understand its strengths and shortcomings.  Key parts of this step include:
 
 - Understanding of the features available in the dataset.
 - Understanding of the data types stored in those features.
@@ -64,15 +64,15 @@ Here were explore whether Machine Learning is a good fit for the business questi
 
 ## Feature Generation
 
-Here we get our data ready for ML.  Important features are identified and categorized.
+Here we get our data ready for ML.  Important features are identified and categorized.  This is an iterative process.
 
 ## Exploring ML
 
-Based on our feature set and business questions, we begin exploring and identifying ML algorithms to test for fit to the task at hand.  Is this a classification task?  Is the data in the form natural language text or images?
+Based on our feature set and business questions, we begin exploring and identifying ML algorithms to test for fit to the task at hand.  Is this a classification task?  Is the data in the form of natural language text or images?
 
 ## ML Optimization
 
-Once we have an approach that appears to satisfy the needs of the business, then we begin optimizing it to get as much as possible out of our approach.  This can include such activities as ensembling of different ML algorithms.
+Once we have an approach that appears to satisfy the needs of the business, then we begin optimizing it to get as much as possible out of our approach.  This can include such activities as ensembling of different ML algorithms, new feature generation, identification of new data sources that may be needed, and research.
 
 ## ML Reporting
 
