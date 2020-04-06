@@ -16,9 +16,9 @@ Whenever I begin a new data science project, whether it is for an existing compa
 12. Productionize
 13. Review
 
-## Understand the Business
+## Understanding the Business
 
-It is important to understand the domain the business operates in.  Answering these questions can help lay the groundwork for a successful engagement.
+It is important to understand the domain the business operates in.  Answering these questions can help lay the groundwork for a successful engagement and provide insight into the data.
 
 - What industry does the business operate in?
 - How does the business make money?
